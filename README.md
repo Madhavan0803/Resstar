@@ -1,5 +1,3 @@
-# Reestar
-
 **Reestar** is a sleek and responsive portfolio website designed using HTML and CSS. This project showcases a modern and clean aesthetic, perfect for highlighting creative work and personal achievements. The website features a user-friendly interface with smooth navigation, a visually appealing layout, and mobile-friendly design.
 
 ## Key Features:
