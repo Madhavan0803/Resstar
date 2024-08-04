@@ -1,0 +1,65 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.playfair-display-uniquifier{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.sec-one{
+    background-color:chartreuse;
+    color:crimson;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.box-one,.box-two,.box-three,.box-four{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+
+}
+
+img{
+    width: 300px;
+}
+.box{
+    text-align: center;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.box-one__od,.box-two__od,.box-three__od,.box-four__od{
+    text-decoration: none;
+    background-color:blue;
+    color: white;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.form-one{
+    background-color:darkred;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.contact{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.con-two__send{
+    background-color: yellow;
+    color: black;
+    text-decoration: none;
+    display: block;
+    width: 350px;
+    border-radius: 10px;
+}
